@@ -1,0 +1,12 @@
+I am odemakinde Elisha Jesutofunmi a Machine learning engineer. I am so passionate about implementing machine learning algorithms on microchips.
+
+Twitter: @elishatofunmi
+Email: elishatofunmi@ieee.org
+github: github.com/elishatofunmi
+gitlab: www.gitlab.com/elishatofunmi
+bitbucket: https://bitbucket.org/elishatofunmi/
+Contact details: +2348180458189, +2348157294536
+
+This folder contains materials based on introduction to visualization using the matplotlib.pyplot library in python and a brief introduction to the seaborn library.
+
+Please if you find any difficult to understand please raise questions from the issue button attached to this folder.
